@@ -33,7 +33,6 @@ Aqui estão as instruções para rodar o projeto na sua máquina local.
    git clone https://github.com/23Edu4rd0/Ia-Gemini.git
 
 
-
 2. Navegue até o diretório do projeto:
     ```bash
     cd IA-Gemini
